@@ -23,7 +23,7 @@ retrieval, and applied machine learning.
 
 ## 📌 Featured project
 
-**[ResumeMatch AI](https://github.com/puneethpemmasani/resumematch-ai)** —
+**[ResumeMatch AI](https://github.com/pemmasanipuneeth/resumematch-ai)** —
 Hybrid semantic-search + LLM tool that scores resume-to-job-description match,
 identifies coverage gaps, and suggests grounded rewrites. Local embeddings for
 retrieval, Claude for reasoning — built to demonstrate a practical RAG-adjacent
